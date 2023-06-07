@@ -92,7 +92,10 @@ void loop()
 
 ```
 ### OUTPUT:
+### before simulation:
+![243359078-ef99e6d6-a3a3-4d03-8bc5-4470d1bf60b9](https://github.com/Sakthimurugavel/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/118707246/00b4aa3d-3eb1-4131-b1fc-c9c40f4423c9)
 
+### after simulation:
 ![Screenshot (81)](https://github.com/Sakthimurugavel/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/118707246/ea22dfdd-d308-4c9a-a5f0-3f58455d3b51)
 
 
